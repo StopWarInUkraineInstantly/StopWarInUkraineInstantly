@@ -4,4 +4,6 @@
 
 ### **RU:** Discord-сообщество для поднятия антивоенного духа и поддержки единомышленников
 
-https://ukrainestopwar.github.io/
+Discord: https://ukrainestopwar.github.io/
+
+Email: ukrainestopwarproton@proton.me
